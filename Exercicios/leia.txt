@@ -1,0 +1,40 @@
+//cedup albilio paulo turma:3-54 nome:Djenifer A A e Joao Vitor S. Svaisser
+1 - Escrever um programa que receba 2 números e exiba o resultado da sua soma.
+
+2 - Escrever um programa que receba 2 números e ao final mostre a soma, subtração, multiplicação e a divisão dos números lidos.
+
+3 - Escrever um programa para determinar o consumo médio de um automóvel sendo fornecida a distância total percorrida pelo automóvel e o total de combustível gasto.
+vdistancia / vcombustivel = vmedia
+
+4 - Crie um programa que leia um número e informa se o número é positivo ou negativo.
+
+5 - Crie um programa que leia um número e informa se é par ou impar.
+
+6 - faça um programa que receba/escreva um valor q foi depositado e exiba o valor com rendimento após um mes, considere fixo o juro da poupança 0.7%
+vjuro dooble
+vdeposi dooble
+vmontante dooble
+vtempo
+
+7 - faça um programa que receba um preço de custo de 1 produto e mostre o valor de venda. sabe-se que o preço de custo recebera um acrecimo de acordo com um percentual informado pelo usuario.
+
+vpre-custo
+vacrecimo 2%
+vvalor-venda
+vpercentual
+
+vvalor-venda = (vpercentual * vacrecimo)/100 +vpre-custo;
+
+8- gastos 
+ casa= luz     = 30
+       comida  = 150
+       aluguel = 600 + condominio
+       agua    = 30
+       gas     = 50
+       internet= 50
+lazer= 150
+ 
+reserva=150
+
+investimento=150 
+
